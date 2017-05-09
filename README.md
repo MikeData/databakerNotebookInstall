@@ -8,7 +8,7 @@ For installing databaker from pre-downloaded files via a jupyter notebook.
 
 2.) Unzip the contents
 
-3.) Drop the contents (i.e the folder containing all these files - make sure you dont have a foder wth a folder) into your documents.
+3.) Drop the contents (i.e the folder containing all these files - make sure you dont have a folder wth a folder) into your documents.
 
 4.) Open the jupyter notebook and following the instructions.
 
