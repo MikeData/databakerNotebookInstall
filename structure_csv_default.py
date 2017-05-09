@@ -14,7 +14,10 @@ headeradditionals = [
 
 # conversionsegmentnumbercolumn = "empty11"
 SH_Split_OBS = False   # see value set to int value below
-TIME = False # pointless but necessary to stop it breaking.
+
+
+# special time handling
+SH_Create_ONS_time = False    # forces time into specific formats. disabled for these purposes 
 
 ####  Below this point is derived data (used in old code) from the above tables
 
