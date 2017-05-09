@@ -12,4 +12,11 @@ For installing databaker from pre-downloaded files via a jupyter notebook.
 
 4.) Open the jupyter notebook and following the instructions.
 
-NOTE - dont unzip the dependancies.zip file. There's no need.
+5.) Replace the structure_csv_default.py script in your local databaker installation (mine was in C:\python34\Lib\site-packages\databaker)
+with the one provided in this repository.
+
+NOTES: 
+
+dont unzip the dependancies.zip file. There's no need.
+
+step 5 replaces the default output structure (a rather confusing format used by the old WDA system) with a simple and concise one. You don't strictly speaking have to carry out this step to use databaker but I'd hihgly recommend it. 
