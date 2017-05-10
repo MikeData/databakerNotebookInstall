@@ -19,4 +19,4 @@ NOTES:
 
 dont unzip the dependancies.zip file. There's no need.
 
-step 5 replaces the default output structure (a rather confusing format used by the old WDA system) with a simple and concise one. You don't strictly speaking have to carry out this step to use databaker but I'd hihgly recommend it. 
+step 5 replaces the default output structure (a rather confusing format used by the old WDA system) with a simple and concise one. You don't strictly speaking have to carry out this step to use databaker but I'd highly recommend it. 
